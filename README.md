@@ -1,2 +1,2 @@
-This is a test project for GitHub
-This powerfull using git
+# EC2Test
+# This is a new test for EC2 Code
